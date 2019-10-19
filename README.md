@@ -4,7 +4,7 @@
 
 ### DEMO
 
-https://react-components.eldorjon.uz/fastfood/
+https://react-fastfood.eldorjon.uz/
 
 ### Предпосылки
 
