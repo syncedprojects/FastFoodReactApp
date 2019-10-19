@@ -1,0 +1,22 @@
+@media ( min-width: 768px ) {
+    #products-listing {
+        border-right: 1px solid #ced4da;
+    }
+    #cart {
+        border-right: 1px solid #ced4da;
+    }
+}
+
+#products-listing li {
+    cursor: pointer;
+}
+
+#products-listing li .card:hover {
+    -webkit-box-shadow: 0 0 20px #ced4da;
+    -moz-box-shadow: 0 0 20px #ced4da;
+    box-shadow: 0 0 20px #ced4da;
+}
+
+.order-card {
+    font-size: 0.75rem;
+}
