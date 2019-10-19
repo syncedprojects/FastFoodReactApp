@@ -2,6 +2,10 @@
 
 Пользовательский веб интерфейс для принятия быстрых заказов в фаст-фуд ресторанах. Этот проект был запущен с помощю [Create React App](https://github.com/facebook/create-react-app).
 
+### DEMO
+
+https://react-components.eldorjon.uz/fastfood/
+
 ### Предпосылки
 
 Для компиляции в вашей системе должна быть установлена node.js.  
