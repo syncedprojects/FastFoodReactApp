@@ -26,7 +26,7 @@ const Cart = ( props ) => {
             </ul>
             {
                 ( props.products.length > 0 ) ?
-                    <button type="button" className="btn btn-primary" onClick={ () => props.makeOrder() }>{ `Заказать` }</button>
+                    <button id="makeOrderBtn" type="button" className="btn btn-primary" onClick={ () => props.makeOrder() }>{ `Заказать` }</button>
                     :
                     null
             }

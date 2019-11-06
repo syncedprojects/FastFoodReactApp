@@ -26,8 +26,8 @@ class ProductsListing extends React.Component {
         return (
             <React.Fragment>
                 <form>
-                    <div class="form-group">
-                        <input class="form-control" type="text" onChange={ this.onFilterChange } placeholder={ `Название...` } />
+                    <div className="form-group">
+                        <input className="form-control" type="text" onChange={ this.onFilterChange } placeholder={ `Название...` } />
                     </div>
                 </form>
                 <ul className="list-unstyled products-listing d-flex justify-content-around flex-wrap p-0">
